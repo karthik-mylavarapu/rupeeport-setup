@@ -1,0 +1,14 @@
+Copyright (c) 2026 Karthik Mylavarapu. All rights reserved.
+
+This repository contains documentation and a setup helper for customers of
+RupeePort, the Razorpay + UPI starter kit for FastAPI.
+
+Permission is granted to use the setup helper to install a legitimately
+purchased copy of RupeePort. You may not use this repository or the setup
+helper to redistribute, resell or publish the paid RupeePort source code.
+
+The RupeePort kit itself is licensed separately under the LICENSE.txt included
+in the purchased kit. That licence governs use, modification and deployment of
+the kit.
+
+No warranty is provided. The setup helper is provided "as is".
