@@ -1,4 +1,4 @@
-> **This is the buyer guide.** The setup helper is `rupeeport_setup.py` (in the v1.1 kit: `scripts/setup.py`). The paid RupeePort source is not in this repository; it comes from Gumroad.
+> **This is the buyer guide.** The setup helper is `rupeeport_setup.py` (in the v1.2 kit: `scripts/setup.py`). The paid RupeePort source is not in this repository; it comes from Gumroad.
 
 # RupeePort buyer guide — one-time installation
 
@@ -419,6 +419,8 @@ docker compose up -d --build
 ---
 
 ## 17. What to send support
+
+Email **digital-templates@zohomail.in** (Template Craft). I answer within 3 working days.
 
 If you need help, send:
 

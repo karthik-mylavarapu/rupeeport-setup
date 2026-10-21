@@ -42,7 +42,7 @@ You can run the 45 tests with **no Razorpay account and no keys**. Checkout only
 
 ## Quick start
 
-1. Download **v1.1** from Gumroad and unzip it.
+1. Download **v1.2** from Gumroad and unzip it.
 2. Open a terminal in the `rzp-kit` folder.
 3. Run the installer that is already inside the kit.
 
@@ -99,11 +99,11 @@ Open `http://localhost:8000`. The admin URL is printed by the installer.
 - Tested on **Linux** against the buyer kit: **45 tests passed**.
 - Windows and macOS paths use only the Python standard library, but have not been run on those systems here.
 - This is a Python script, not a signed `.exe`. Windows/macOS may show security warnings for unsigned packaged binaries; this repository does not ship one.
-- The installer is included in the **v1.1 buyer zip** at `scripts/setup.py`. The standalone copy here still works with older kits via `--project-dir`.
+- The installer is included in the **v1.2 buyer zip** at `scripts/setup.py`. The standalone copy here still works with older kits via `--project-dir`.
 
 ## Support
 
-Use the support email on your Gumroad receipt. GitHub Issues are disabled so support stays in one place.
+Email **digital-templates@zohomail.in** (Template Craft). I answer within 3 working days. GitHub Issues are disabled so support stays in one place.
 
 When asking for help, send:
 

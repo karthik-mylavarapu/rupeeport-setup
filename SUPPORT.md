@@ -1,6 +1,6 @@
 # Support
 
-Use the support email on your Gumroad receipt. GitHub Issues are disabled so support stays in one place.
+Email **digital-templates@zohomail.in** (Template Craft). I answer within 3 working days. GitHub Issues are disabled so support stays in one place.
 
 ## What to send
 
