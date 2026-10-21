@@ -3,6 +3,7 @@
 Cross-platform setup helper and buyer documentation for **RupeePort**, the Razorpay + UPI starter kit for FastAPI.
 
 - **Buy RupeePort:** [Solo — ₹1,499](https://templatecraft1988.gumroad.com/l/rupeeport) · [Team — ₹7,999](https://templatecraft1988.gumroad.com/l/rupeeport-team)
+- **Download release:** [setup v0.1.0](https://github.com/karthik-mylavarapu/rupeeport-setup/releases/tag/v0.1.0)
 - **Full install guide:** [INSTALL.md](INSTALL.md)
 - **Installer:** [installer/rupeeport_setup.py](installer/rupeeport_setup.py)
 
