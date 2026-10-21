@@ -10,4 +10,5 @@
 - Added the buyer installation guide, prerequisites, troubleshooting and security notes.
 - Tested on Linux: 45 tests passed.
 - Windows and macOS code paths are standard-library only but have not been run on those systems yet.
-- Not yet a signed executable and not yet included in the Gumroad zip.
+- Not yet a signed executable.
+- Included in the v1.1 Gumroad buyer zip at `scripts/setup.py`; the standalone release remains for older kits.

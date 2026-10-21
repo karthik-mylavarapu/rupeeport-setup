@@ -1,4 +1,4 @@
-> **This is the buyer guide.** The setup helper is `rupeeport_setup.py` (in the repository: `installer/rupeeport_setup.py`). The paid RupeePort source is not in this repository; it comes from Gumroad.
+> **This is the buyer guide.** The setup helper is `rupeeport_setup.py` (in the v1.1 kit: `scripts/setup.py`). The paid RupeePort source is not in this repository; it comes from Gumroad.
 
 # RupeePort buyer guide — one-time installation
 
@@ -136,7 +136,7 @@ If the folder name is different, use the actual name.
 
 The installer is the file `rupeeport_setup.py`.
 
-### If the file is already inside the kit as `scripts/setup.py`
+### If the installer is inside the kit (v1.1 and later, `scripts/setup.py`)
 
 **Windows:**
 

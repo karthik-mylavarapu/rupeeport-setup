@@ -42,24 +42,27 @@ You can run the 45 tests with **no Razorpay account and no keys**. Checkout only
 
 ## Quick start
 
-1. Download the kit from Gumroad and unzip it.
-2. Download [`installer/rupeeport_setup.py`](installer/rupeeport_setup.py).
-3. Open a terminal in the unzipped kit folder.
-4. Run the installer.
+1. Download **v1.1** from Gumroad and unzip it.
+2. Open a terminal in the `rzp-kit` folder.
+3. Run the installer that is already inside the kit.
 
 **Windows:**
 
 ```powershell
-py -3 rupeeport_setup.py --project-dir C:\path\to\rzp-kit
+py -3 scripts\setup.py
 ```
 
 **macOS / Linux:**
 
 ```bash
-python3 rupeeport_setup.py --project-dir /path/to/rzp-kit
+python3 scripts/setup.py
 ```
 
-Replace the path with the folder that contains `app/main.py`.
+Older v1.0 buyers can download [`installer/rupeeport_setup.py`](installer/rupeeport_setup.py) and run it with `--project-dir`:
+
+```bash
+python3 rupeeport_setup.py --project-dir /path/to/rzp-kit
+```
 
 The installer prompts for:
 
@@ -96,7 +99,7 @@ Open `http://localhost:8000`. The admin URL is printed by the installer.
 - Tested on **Linux** against the buyer kit: **45 tests passed**.
 - Windows and macOS paths use only the Python standard library, but have not been run on those systems here.
 - This is a Python script, not a signed `.exe`. Windows/macOS may show security warnings for unsigned packaged binaries; this repository does not ship one.
-- The installer is **not yet inside the Gumroad zip**. Download it from this repo and use `--project-dir`.
+- The installer is included in the **v1.1 buyer zip** at `scripts/setup.py`. The standalone copy here still works with older kits via `--project-dir`.
 
 ## Support
 
