@@ -1,4 +1,4 @@
-> **This is the buyer guide.** The setup helper is [`installer/rupeeport_setup.py`](installer/rupeeport_setup.py). The paid RupeePort source is not in this repository; it comes from Gumroad.
+> **This is the buyer guide.** The setup helper is `rupeeport_setup.py` (in the repository: `installer/rupeeport_setup.py`). The paid RupeePort source is not in this repository; it comes from Gumroad.
 
 # RupeePort buyer guide — one-time installation
 
